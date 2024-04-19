@@ -1,2 +1,0 @@
-# bdbi-demo
-demo stuff
